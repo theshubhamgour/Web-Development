@@ -12,3 +12,9 @@ div{
     width: 350px;
     border: 5px solid white;
 }
+
+h2{
+    color: white;
+    text-transform: uppercase;
+    font-size: 0.8rem;   
+}
